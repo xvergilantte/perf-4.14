@@ -134,3 +134,9 @@ Android.bp
 # Ignoring out directory
 #
 out/
+
+# Ignore personal files
+build.log
+*.zip
+tc/
+AnyKernel3/
